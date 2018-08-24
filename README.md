@@ -7,7 +7,7 @@ First you need to install scrapy, you can do it through
 
     pip install scrapy
     
-Second run file, this step will create two new files 'quotes.json' and 'Twitter-TexasHumor.html'
+Second run file, this step will create two new files 'quotes.json' and 'Twitter-TexasHumor.html', and you can see the information crawled from the website.
 
     open_quotes.py
     
