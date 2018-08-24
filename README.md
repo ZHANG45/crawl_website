@@ -7,7 +7,7 @@ First you need to install scrapy, you can do it through
 
     pip install scrapy
     
-Second run file 
+Second run file, this step will create two new files 'quotes.json' and 'Twitter-TexasHumor.html'
 
     open_quotes.py
     
